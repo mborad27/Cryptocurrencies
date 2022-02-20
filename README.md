@@ -1,1 +1,5 @@
-# Cryptocurrencies
+# Cryptocurrencies: Unsupervised Machine Learning
+## Overview
+Martha is a senior manager for the Advisory Services Team at Accountability Accounting, a prominent investment bank as well as one of our most important clients. They are interested in offering a new cryptocurrency investment portfolio for all their customers, however, they are lost in the vast universe of cryptocurrencies. They have selected us to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this investment. The data Martha is working with will need to be processed to fit the machine learning models. Since there is no known output for what Martha is looking for, we have decided to use unsupervised learning. To group the cryptocurrencies, we chose a clustering algorithm. We will use data visualizations that Martha will share with the board.
+
+The popularity of bitcoin has hit a price jump that makes it unaffordable for many new investors. However, there are many more cryptocurrencies avaliable at more affordable prices. We will processing data, clustering, reducing dimensions, and reducing the principcal components using PCA.
